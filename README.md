@@ -1,8 +1,9 @@
 # javaSwing-calculator
 
-Please ⭐️ this repo and share it with others
+Screenshot
 
-Screenshots
+
+![Screen Shot](https://user-images.githubusercontent.com/56868392/78180604-ed940180-745a-11ea-9c4a-e6f7dfd75964.PNG)
 
 
 Requirements 🔧
